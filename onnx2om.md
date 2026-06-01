@@ -1,0 +1,1 @@
+atc --framework=5 --model=./wiou-GC10-best.onnx --input_format=NCHW --output=./wiou-GC10-best --soc_version=Ascend310B4

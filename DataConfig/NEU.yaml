@@ -1,0 +1,6 @@
+test: ./test/images
+train: ./train/images
+val: ./val/images
+
+nc: 6
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']

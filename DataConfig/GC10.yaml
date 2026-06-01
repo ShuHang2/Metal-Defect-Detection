@@ -1,0 +1,16 @@
+test: ./test/images
+train: ./train/images
+val: ./val/images
+
+nc: 10
+names:
+- crease
+- crescent_gap
+- inclusion
+- oil_spot
+- punching_hole
+- rolled_pit
+- silk_spot
+- waist folding
+- water_spot
+- welding_line
